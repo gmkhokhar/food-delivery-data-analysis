@@ -26,11 +26,6 @@ The goal is to identify key revenue drivers, analyze delivery performance, and i
 
 ---
 
-## 📊 Dashboard Preview
-(Add your screenshot here)
-
----
-
 ## 📈 Key Insights
 - Top cuisines drive majority of revenue  
 - Delivery time impacts ratings  
